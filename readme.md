@@ -14,13 +14,15 @@ This helps build consistency, strengthens logic, and keeps me sharp for real-wor
 
 ## 📂 Repository Structure
 
-📦 daily-leetcode-challenge
-┣ 📁 Day01/
-┃ ┣ 📄 solution.java (or .py / .js / .cpp)
-┃ ┗ 📄 README.md (problem statement + explanation)
-┣ 📁 Day02/
-┣ ...
-┗ 📄 README.md
+daily-leetcode-challenge/
+├── Day01/
+│   ├── solution.java   (or .py / .js / .cpp)
+│   └── README.md       (problem statement + explanation)
+├── Day02/
+│   ├── solution.java
+│   └── README.md
+├── ...
+└── README.md
 
 
 
