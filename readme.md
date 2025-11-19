@@ -18,7 +18,7 @@ This helps build consistency, strengthens logic, and keeps me sharp for real-wor
 
 - daily-leetcode-challenge/
   - Day01/
-    - solution.java (or .py / .js / .cpp)
+    - solution.py
     - README.md (problem + explanation)
   - Day02/
     - solution.java
